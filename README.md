@@ -1,5 +1,5 @@
 # UTVERSE-LAUNCHER
-Quick Chrome Extension to Launch UTVERSE in a nNew Window!
+Quick Chrome Extension to Launch UTVERSE in a New Window!
 
 Note: This is a concept and not the official UT Launcher!
 How to Load This Extension in Chrome
